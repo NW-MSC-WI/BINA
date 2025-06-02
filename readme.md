@@ -69,3 +69,6 @@ Wir wollten herausfinden, wie verschiedene externe Faktoren den Verkehr beeinflu
 - Entscheidungsgrundlage für Baustellenplanung, ÖV-Anpassungen, Ferienverkehr
 - Quantifizierung des Einflusses von Wetter, Feiertagen und Schulferien
 - Datengetriebene Empfehlungen für eine vorausschauende Verkehrspolitik
+
+## Ressourcen
+- [Colab](https://colab.research.google.com/drive/10U9uM-OGZqwP-IzEv9xVvSO8sVotGobW)
